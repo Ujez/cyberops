@@ -216,3 +216,22 @@ What are the routing algos involved in determining the best paths between diff s
 ![](img/10.png)
 ![](img/11.png)
 ![](img/12.png)
+
+## ARP Vulns
+includes ARP cache poisoning attack. The threat actor carries out a MiTM attack.
+
+## DNS Attacks
+incs:
+> DNS Open resolver,
+
+![](img/17.png)
+
+> DNS Stealth,
+
+![](img/18.png)
+
+> DNS Domain Shadowing,
+Domain shadowing involves the threat actor gathering domain account credentials in order to silently create multiple sub-domains to be used during the attacks. These subdomains typically point to malicious servers without alerting the actual owner of the parent domain.
+
+> DNS tunneling attacks.
+
