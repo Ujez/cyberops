@@ -235,3 +235,66 @@ Domain shadowing involves the threat actor gathering domain account credentials 
 
 > DNS tunneling attacks.
 
+## Security Policies
+A comprehensive security policy has a number of benefits, including the following:
+
+>Demonstrates an organization’s commitment to security
+
+>Sets the rules for expected behavior
+
+>Ensures consistency in system operations, software and hardware acquisition and use, and maintenance
+
+>Defines the legal consequences of violations
+
+>Gives security staff the backing of management
+
+Security policies are used to inform users, staff, and managers of an organization’s requirements for protecting technology and information assets. A security policy also specifies the mechanisms that are needed to meet security requirements and provides a baseline from which to acquire, configure, and audit computer systems and networks for compliance.`
+
+The table lists policies that may be included in a security policy.
+
+
+![](img/20.png)
+
+One of the most common security policy components is an AUP. This can also be referred to as an __appropriate use policy__. This component defines what users are allowed and not allowed to do on the various system components. This includes the type of traffic that is allowed on the network. The AUP should be as explicit as possible to avoid misunderstanding.
+
+For example, an AUP might list specific websites, newsgroups, or bandwidth intensive applications that are prohibited from being accessed by company computers or from the company network. Every employee should be required to sign an AUP, and the signed AUPs should be retained for the duration of employment.
+
+## BYOD Policies
+Many organizations must now also support Bring Your Own Device (BYOD). This enables employees to use their own mobile devices to access company systems, software, networks, or information. BYOD provides several key benefits to enterprises, including increased productivity, reduced IT and operating costs, better mobility for employees, and greater appeal when it comes to hiring and retaining employees.
+
+However, these benefits also bring an increased information security risk because BYOD can lead to data breaches and greater liability for the organization.
+
+A BYOD security policy should be developed to accomplish the following:
+
+>Specify the goals of the BYOD program.
+>Identify which employees can bring their own devices.
+>Identify which devices will be supported.
+>Identify the level of access employees are granted when using personal devices.
+>Describe the rights to access and activities permitted to security personnel on the device.
+>Identify which regulations must be adhered to when using employee devices.
+>Identify safeguards to put in place if a device is compromised.
+The table lists BYOD security best practices to help mitigate BYOD vulnerabilities.
+
+
+![](img/21.png)
+
+## Zero Trust Security
+_"never trust, always verify"_. The three pillars of zero trust are workforce, workloads, and workplace.
+
+Zero trust for workforce - 
+This pillar consists of people (e.g., employees, contractors, partners, and vendors) who access work applications by using their personal or corporate-managed devices. This pillar ensures only the right users and secure devices can access applications, regardless of location.
+
+Zero trust for Workload - 
+This pillar is concerned with applications that are running in the cloud, in data centers, and other virtualized environments that interact with one another. It focuses on secure access when an API, a microservice, or a container is accessing a database within an application.
+
+Zero trust for workplace - 
+This pillar focuses on secure access for any and all devices, including on the internet of things (IoT), that connect to enterprise networks, such as user endpoints, physical and virtual servers, printers, cameras, HVAC systems, kiosks, infusion pumps, industrial control systems, and more.
+
+
+## Access control Models
+
+![](img/21.png)
+
+Another access control model is the principle of least privilege, which specifies a limited, as-needed approach to granting user and process access rights to specific information and tools. The principle of least privilege states that users should be granted the minimum amount of access required to perform their work function.
+
+
